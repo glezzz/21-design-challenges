@@ -1,0 +1,33 @@
+footer{
+    background-color: blanchedalmond;
+    color: gray;
+    padding:20px;
+    height: 80px;
+}
+
+.playdots{
+    margin-left: 20px;
+    float: left;
+}
+
+.social{
+    float: right;
+    margin-right: 40px;
+    margin-left: 15px;
+}
+
+img{
+    height: 15px;
+    margin-right: 15px;
+    }
+
+a {
+    color: gray;
+}
+
+.links{
+    margin-right: 20px;
+    float: right ;
+}
+
+
